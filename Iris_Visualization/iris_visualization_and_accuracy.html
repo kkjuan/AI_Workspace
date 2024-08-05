@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iris Dataset Visualization and Accuracy Table</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { text-align: center; }
+        .container { display: flex; justify-content: center; flex-direction: column; align-items: center; }
+        .pairplot { margin-bottom: 40px; }
+        table { border-collapse: collapse; width: 50%; margin: 20px auto; }
+        th, td { border: 1px solid #dddddd; text-align: center; padding: 8px; }
+        th { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Iris Dataset Visualization and Accuracy Table</h1>
+        <div class="pairplot">
+            <h2>Pairplot of Features</h2>
+            <img src="pairplot.png" alt="Pairplot of Features">
+        </div>
+        <div class="accuracy-table">
+            <h2>Accuracy Table (4x4)</h2>
+            <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>sepal length (cm)</th>
+      <th>sepal width (cm)</th>
+      <th>petal length (cm)</th>
+      <th>petal width (cm)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>sepal length (cm)</th>
+      <td>NaN</td>
+      <td>0.822222</td>
+      <td>0.955556</td>
+      <td>0.977778</td>
+    </tr>
+    <tr>
+      <th>sepal width (cm)</th>
+      <td>0.822222</td>
+      <td>NaN</td>
+      <td>0.955556</td>
+      <td>0.977778</td>
+    </tr>
+    <tr>
+      <th>petal length (cm)</th>
+      <td>0.955556</td>
+      <td>0.955556</td>
+      <td>NaN</td>
+      <td>0.955556</td>
+    </tr>
+    <tr>
+      <th>petal width (cm)</th>
+      <td>0.977778</td>
+      <td>0.977778</td>
+      <td>0.955556</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
+        </div>
+    </div>
+</body>
+</html>
