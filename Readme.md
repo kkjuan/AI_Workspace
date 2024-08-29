@@ -7,7 +7,7 @@
 - Build the [Django Blog project][def3] for practicing the django structure and implementation.
 - Learn how to make a crawl application for getting some Info from webpage. Built a app of [ptt][def4] crawling project.
 
-#Some projects of previous Jobs
+# Some projects of previous Jobs
 - There's tiny function of machine security. The machine key extract function is for the product of ADAS AVM(Arround View Monitoring). The key is used in booting up stage and usually given by manufactory. If it's missed, user has to call back from manufactory and so unconvient. Giving a Webpage for getting [machine key][def5] is easy and good for user. 
 
 [def]: https://kkjuan.github.io/AI_Workspace/Iris_Visualization/iris_visualization_and_accuracy.html
