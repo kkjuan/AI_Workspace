@@ -11,4 +11,4 @@
 
 ## Previous Work Projects
 
-- **Machine Security Enhancement:** Developed a machine key extraction function for ADAS AVM (Around View Monitoring) products. This function is crucial during the boot-up stage, where a machine key provided by the manufacturer is required. If the key is lost, users typically need to request it again from the manufacturer, which is inconvenient. To improve user experience, I created a [web-based solution](https://github.com/kkjuan/Machinekey-for-php) that allows users to easily retrieve the machine key.
+- **[Machine Security Enhancement](https://github.com/kkjuan/Machinekey-for-php):** Developed a machine key extraction function for ADAS AVM (Around View Monitoring) products. This function is crucial during the boot-up stage, where a machine key provided by the manufacturer is required. If the key is lost, users typically need to request it again from the manufacturer, which is inconvenient. To improve user experience, I created a [web-based solution](https://github.com/kkjuan/Machinekey-for-php) that allows users to easily retrieve the machine key.
