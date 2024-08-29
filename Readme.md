@@ -7,4 +7,4 @@
 
 [def]: https://kkjuan.github.io/AI_Workspace/Iris_Visualization/iris_visualization_and_accuracy.html
 [def1]: https://kkjuan.github.io/WebSim_LR_demo/
-[def2]: https://app.enhancv.com/share/88a1efab/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+[def2]: https://kkjuan.github.io/myresume/
