@@ -1,18 +1,14 @@
-# Introduce Myself
-[Resume][def2]
+## About Me
 
-# Some Works of AI
-- [Linear Regression Analysis.][def1] This chart demonstrates an interactive regression analysis. Adjust the parameters on the left to see how they affect the regression line.
-- [Iris Dataset Visualization and Accuracy Table][def] Analysis Iris features of visualization and classifications.
-- Build the [Django Blog project][def3] for practicing the django structure and implementation.
-- Learn how to make a crawl application for getting some Info from webpage. Built a app of [ptt][def4] crawling project.
+[View my resume](https://kkjuan.github.io/myresume/)
 
-# Some projects of previous Jobs
-- There's tiny function of machine security. The machine key extract function is for the product of ADAS AVM(Arround View Monitoring). The key is used in booting up stage and usually given by manufactory. If it's missed, user has to call back from manufactory and so unconvient. Giving a Webpage for getting [machine key][def5] is easy and good for user. 
+## AI Projects
 
-[def]: https://kkjuan.github.io/AI_Workspace/Iris_Visualization/iris_visualization_and_accuracy.html
-[def1]: https://kkjuan.github.io/WebSim_LR_demo/
-[def2]: https://kkjuan.github.io/myresume/
-[def3]: https://github.com/kkjuan/django_blog
-[def4]: https://github.com/kkjuan/ptt
-[def5]: https://github.com/kkjuan/Machinekey-for-php
+- **[Linear Regression Analysis](https://kkjuan.github.io/WebSim_LR_demo/):** An interactive tool for performing regression analysis. Adjust the parameters on the left to observe how they impact the regression line.
+- **[Iris Dataset Visualization and Accuracy Table](https://kkjuan.github.io/AI_Workspace/Iris_Visualization/iris_visualization_and_accuracy.html):** A visualization and classification analysis of the Iris dataset.
+- **[Django Blog Project](https://github.com/kkjuan/django_blog):** A blog project built with Django to practice its structure and implementation.
+- **[PTT Crawling Project](https://github.com/kkjuan/ptt):** A web crawling application designed to extract information from PTT, a popular Taiwanese online forum.
+
+## Previous Work Projects
+
+- **Machine Security Enhancement:** Developed a machine key extraction function for ADAS AVM (Around View Monitoring) products. This function is crucial during the boot-up stage, where a machine key provided by the manufacturer is required. If the key is lost, users typically need to request it again from the manufacturer, which is inconvenient. To improve user experience, I created a [web-based solution](https://github.com/kkjuan/Machinekey-for-php) that allows users to easily retrieve the machine key.
