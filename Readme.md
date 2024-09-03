@@ -8,6 +8,7 @@
 - **[Iris Dataset Visualization and Accuracy Table](https://kkjuan.github.io/AI_Workspace/Iris_Visualization/iris_visualization_and_accuracy.html):** A visualization and classification analysis of the Iris dataset.
 - **[Django Blog Project](https://github.com/kkjuan/django_blog):** A blog project built with Django to practice its structure and implementation.
 - **[PTT Crawling Project](https://github.com/kkjuan/ptt):** A web crawling application designed to extract information from PTT, a popular Taiwanese online forum.
+- **[Reinforcement Learning game: Pathfinding game](https://kkjuan.github.io/Reinforcement-learning-game/):** A grid game as to choose a grid size of 5x5, 7x7, or 10x10, then click the "Create Game Board" button to generate a new game board. Click "Start Learning" to let the AI begin finding the optimal path. Watch as the AI uses reinforcement learning to navigate from the start point (green) to the goal (red). Once learning is complete, the optimal path will be highlighted in yellow. Explore the power of reinforcement learning by playing the game today!
 
 ## Previous Work Projects
 
